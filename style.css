@@ -1,0 +1,20 @@
+*{background-color: rgb(234, 199, 199);}
+
+nav ul {
+    display: flex;
+    justify-content:flex-end;
+    list-style: none;
+    gap: 5rem;
+font-size: 24px;
+}
+
+img {
+    height: 600px;
+    display: block;
+}
+.section-one {
+    width: 250px;
+    
+}
+h1 {font-size: 48px;
+width: 300px;}
