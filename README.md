@@ -12,3 +12,4 @@
 ## Design link
 (https://www.figma.com/proto/lECkKWHFEQnZnPRvdTc7g1/Project-one?node-id=11-12&p=f&t=lFU1X1Zq99llQtBn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 ## Link to live site on GitHub Pages
+(https://mammet-tech.github.io/Project1/)
