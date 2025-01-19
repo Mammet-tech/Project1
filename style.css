@@ -5,25 +5,37 @@
 
 nav ul {
     display: flex;
-    justify-content: flex-end;
-        list-style: none;
-    gap: 5rem;
+    justify-content:flex-end ;
+    list-style: none;
+    gap: 9rem;
     font-size: 24px;
     color: black;
-} 
-.section1{
-    width: 50%;
-margin-bottom: 0px;}
-    
+}
 
-img { height: 400px;}
+.section1 {
+    width: 50%;
+    margin-bottom: 0px;
+}
+
+
+img {
+    height: 400px;
+}
 
 
 section {
     width: 21%;
     margin: 5%;
-float: left;}
+    float: left;
+}
+
 .section2 {
     margin-top: 220px;
-    width: 210px;
+    width: 340px;
+}
+.paragraph {
+    font-size: 24px;
+}
+h1 {
+    font-size: 64px;
 }
