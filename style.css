@@ -20,6 +20,7 @@ nav ul {
 
 img {
     height: 450px;
+    object-fit: cover;
 }
 
 
@@ -44,13 +45,16 @@ h2 {
 }
 .img1 {
     width: 850px;
-    height: 600px;
+    height: 630px;
+    object-fit: cover;
 }
 .img2 {
     width: 330px;
     height: 450px;
+    object-fit: cover;
 }
 .img3 {
     width: 420px;
     height: 400px;
+    object-fit: cover;
 }
