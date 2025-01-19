@@ -19,7 +19,7 @@ nav ul {
 
 
 img {
-    height: 400px;
+    height: 450px;
 }
 
 
@@ -30,7 +30,7 @@ section {
 }
 
 .section2 {
-    margin-top: 220px;
+    margin-top: 150px;
     width: 340px;
 }
 .paragraph {
@@ -38,4 +38,7 @@ section {
 }
 h1 {
     font-size: 64px;
+}
+h2 {
+    font-size: 32px;
 }
