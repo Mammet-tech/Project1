@@ -19,8 +19,9 @@ nav ul {
 
 
 img {
-    height: 450px;
+    height: auto;
     object-fit: cover;
+    max-width: 100%;
 }
 
 
